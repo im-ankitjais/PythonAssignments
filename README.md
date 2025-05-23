@@ -56,3 +56,17 @@ f = n * (n-1)! till n reaches 1.
 ## Task 2: Using the Math Module for Calculations
 
 This program takes an integer from the user and uses the math module to calculate and display the square, natural log, sine of that number.
+
+---
+
+ASSIGNMENT 4: Files, Exceptions, and Errors in Python
+
+---
+## Task 1: Read a File and Handle Errors
+
+This program opens and read text file and prints its contents. Also it handles errors if file does not exist.
+
+
+## Task 2: Write and Append Data to a File
+
+This program takes user input and writes it to a file, then takes additional user input and append to same file.
