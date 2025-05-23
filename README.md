@@ -33,3 +33,26 @@ This program takes an integer from the user and checks whether the number is eve
 ## Task 2: Sum of Integers from 1 to 50 Using a Loop
 
 This program uses a for loop to iterate over numbers from 1 to 50 and displays the sum of all.
+
+
+---
+
+ASSIGNMENT 3: Functions & Modules in Python
+
+---
+## Task 1: Calculate Factorial Using a Function
+
+This program takes an integer from the user and returns the calculated factorial using a loop or recursion.
+
+### How it works: 
+
+The factorial function is called recursively until the number reached 1.
+Like:
+f = 1
+n = 3
+f = n * (n-1)! till n reaches 1.
+
+
+## Task 2: Using the Math Module for Calculations
+
+This program takes an integer from the user and uses the math module to calculate and display the square, natural log, sine of that number.
