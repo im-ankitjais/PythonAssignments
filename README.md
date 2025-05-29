@@ -70,3 +70,17 @@ This program opens and read text file and prints its contents. Also it handles e
 ## Task 2: Write and Append Data to a File
 
 This program takes user input and writes it to a file, then takes additional user input and append to same file.
+
+---
+
+ASSIGNMENT 5: Data Structures and Strings in Python
+
+---
+## Task 1: Create a Dictionary of Student Marks
+
+This program takes the student name as input and returns the student's mark from pre-existing dictionary.Also if the student's name not found, print appropriate not-found message.
+
+
+## Task 2: Demonstrate List Slicing 
+
+This program extracts and prints the first five elements from the list of numbers from 1 to 10 and also prints the reverse of extracted elements.
