@@ -84,3 +84,9 @@ This program takes the student name as input and returns the student's mark from
 ## Task 2: Demonstrate List Slicing 
 
 This program extracts and prints the first five elements from the list of numbers from 1 to 10 and also prints the reverse of extracted elements.
+
+---
+
+ASSIGNMENT 6: CALCULATOR USING TKINTER
+
+---
